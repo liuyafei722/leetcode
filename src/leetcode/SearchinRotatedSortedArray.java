@@ -1,7 +1,4 @@
 package leetcode;
-
-import java.util.ServiceConfigurationError;
-
 /**
  * @Author: LiuYafei
  * @Date: 2017/10/31
